@@ -52,8 +52,20 @@ Definición de IA y ML
     2. Aprendizaje no supervisado (Unsupervised Learning)
     3. Aprendizaje por refuerzo (Reinforcement Learning)
 
-    
+    En Aprendizaje Supervisado, el algoritmo se entrena con un conjunto de datos etiquetados, lo que significa que cada entrada tiene una salida o “respuesta correcta” ya conocida. El objetivo es que el modelo aprenda la relación entre ambos y pueda generalizar para predecir resultados en datos nuevos.
+        - Aplicaciones comunes: predicción de precios de viviendas, clasificación de correos electrónicos en “spam” o “no spam”, diagnóstico médico asistido por IA.
+        - Algoritmos: regresión lineal y logística, máquinas de soporte vectorial (SVM), árboles de decisión, redes neuronales supervisadas.
+    Ofrece alta precisión cuando los datos están bien etiquetados y permite evaluar fácilmente el rendimiento, aunque requiere grandes cantidades de datos etiquetados, lo cual puede ser costoso y laborioso de obtener.
 
+    A diferencia del anterior, aquí los datos no están etiquetados. El Aprendizaje No Supervisado debe explorar los datos por sí mismo, identificando patrones, similitudes, diferencias o estructuras ocultas. Se utiliza principalmente para descubrir conocimiento desconocido.
+        - Aplicaciones comunes: segmentación de clientes, análisis de redes sociales, detección de fraudes o anomalías en datos financieros.
+        - Algoritmos representativos: clustering (k-means, jerárquico), análisis de componentes principales (PCA), modelos de mezcla gaussiana.
+    Este tipo de aprendizaje permite descubrir relaciones ocultas que el ser humano no anticipa, aunque puede ser más difícil de evaluar porque no existe una “respuesta correcta” con la cual comparar.
+
+    En Aprendizaje por refuerzo, un agente interactúa con un entorno tomando decisiones secuenciales. Cada acción genera una recompensa (positiva o negativa), y el agente aprende una política óptima que maximiza las recompensas acumuladas en el largo plazo. Se asemeja al proceso de aprendizaje humano por prueba y error.
+        - Aplicaciones comunes: robótica autónoma, videojuegos (como AlphaGo de Google DeepMind), sistemas de recomendación dinámicos.
+        - Algoritmos representativos: Q-learning, SARSA, Deep Q-Networks (DQN), aprendizaje basado en políticas (Policy Gradient).
+    Es útil para problemas complejos donde no existen datos de entrenamiento completos, aunque requiere mucho tiempo de entrenamiento y gran potencia de cómputo, y puede resultar ineficiente si las recompensas son escasas.
 
     Bibliografia:
         
