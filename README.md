@@ -44,6 +44,28 @@ Definición de IA y ML
     3. Alcance
     La IA abarca un espectro más amplio de tecnologías, incluyendo el ML, redes neuronales, visión computacional, entre otras. En cambio, el ML se limita al aprendizaje automático, que puede ser supervisado, no supervisado o por refuerzo. Es decir, el ML es una subárea dentro del campo de la IA.
 
+    C:
+    Tipos de Machine Learning:
+
+    El Machine Learning (ML) se clasifica en tres tipos principales, de acuerdo con la forma en que los algoritmos aprenden de los datos y se relacionan con el entorno:
+    1. Aprendizaje supervisado (Supervised Learning)
+    2. Aprendizaje no supervisado (Unsupervised Learning)
+    3. Aprendizaje por refuerzo (Reinforcement Learning)
+
+    En Aprendizaje Supervisado, el algoritmo se entrena con un conjunto de datos etiquetados, lo que significa que cada entrada tiene una salida o “respuesta correcta” ya conocida. El objetivo es que el modelo aprenda la relación entre ambos y pueda generalizar para predecir resultados en datos nuevos.
+        - Aplicaciones comunes: predicción de precios de viviendas, clasificación de correos electrónicos en “spam” o “no spam”, diagnóstico médico asistido por IA.
+        - Algoritmos: regresión lineal y logística, máquinas de soporte vectorial (SVM), árboles de decisión, redes neuronales supervisadas.
+    Ofrece alta precisión cuando los datos están bien etiquetados y permite evaluar fácilmente el rendimiento, aunque requiere grandes cantidades de datos etiquetados, lo cual puede ser costoso y laborioso de obtener.
+
+    A diferencia del anterior, aquí los datos no están etiquetados. El Aprendizaje No Supervisado debe explorar los datos por sí mismo, identificando patrones, similitudes, diferencias o estructuras ocultas. Se utiliza principalmente para descubrir conocimiento desconocido.
+        - Aplicaciones comunes: segmentación de clientes, análisis de redes sociales, detección de fraudes o anomalías en datos financieros.
+        - Algoritmos representativos: clustering (k-means, jerárquico), análisis de componentes principales (PCA), modelos de mezcla gaussiana.
+    Este tipo de aprendizaje permite descubrir relaciones ocultas que el ser humano no anticipa, aunque puede ser más difícil de evaluar porque no existe una “respuesta correcta” con la cual comparar.
+
+    En Aprendizaje por refuerzo, un agente interactúa con un entorno tomando decisiones secuenciales. Cada acción genera una recompensa (positiva o negativa), y el agente aprende una política óptima que maximiza las recompensas acumuladas en el largo plazo. Se asemeja al proceso de aprendizaje humano por prueba y error.
+        - Aplicaciones comunes: robótica autónoma, videojuegos (como AlphaGo de Google DeepMind), sistemas de recomendación dinámicos.
+        - Algoritmos representativos: Q-learning, SARSA, Deep Q-Networks (DQN), aprendizaje basado en políticas (Policy Gradient).
+    Es útil para problemas complejos donde no existen datos de entrenamiento completos, aunque requiere mucho tiempo de entrenamiento y gran potencia de cómputo, y puede resultar ineficiente si las recompensas son escasas.
 
     Bibliografia:
         
@@ -54,3 +76,7 @@ Definición de IA y ML
         Amazon Web Services. (s.f.). IA y machine learning: diferencia entre inteligencia artificial y machine learning. Recuperado de https://aws.amazon.com/es/compare/the-difference-between-artificial-intelligence-and-machine-learning
 
         Universidad Católica San Pablo. (s.f.). Diferencia entre machine learning e inteligencia artificial. Recuperado de https://postgrado.ucsp.edu.pe/articulos/machine-learning-inteligencia-artificial-diferencias
+
+        Rojas, E. M. (2020). Machine Learning: análisis de lenguajes de programación y herramientas para desarrollo. Revista Ibérica de Sistemas e Tecnologías de Información, (E28), 586-599.
+
+        Amazon Web Services. (s.f.). Supervised vs. Unsupervised Learning. Recuperado de https://aws.amazon.com/pt/compare/the-difference-between-machine-learning-supervised-and-unsupervised/
