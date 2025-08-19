@@ -76,3 +76,7 @@ Definición de IA y ML
         Amazon Web Services. (s.f.). IA y machine learning: diferencia entre inteligencia artificial y machine learning. Recuperado de https://aws.amazon.com/es/compare/the-difference-between-artificial-intelligence-and-machine-learning
 
         Universidad Católica San Pablo. (s.f.). Diferencia entre machine learning e inteligencia artificial. Recuperado de https://postgrado.ucsp.edu.pe/articulos/machine-learning-inteligencia-artificial-diferencias
+
+        Rojas, E. M. (2020). Machine Learning: análisis de lenguajes de programación y herramientas para desarrollo. Revista Ibérica de Sistemas e Tecnologías de Información, (E28), 586-599.
+
+        Amazon Web Services. (s.f.). Supervised vs. Unsupervised Learning. Recuperado de https://aws.amazon.com/pt/compare/the-difference-between-machine-learning-supervised-and-unsupervised/
