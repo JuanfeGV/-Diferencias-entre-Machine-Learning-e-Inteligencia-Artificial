@@ -50,3 +50,7 @@ Definición de IA y ML
         ¿Qué es la inteligencia artificial y cómo se usa? | Temas | Parlamento Europeo. (2020, 9 agosto). Temas | Parlamento Europeo. https://www.europarl.europa.eu/topics/es/article/20200827STO85804/que-es-la-inteligencia-artificial-y-como-se-usa
         
         Daniel. (2023, 30 octubre). Machine Learning: definición, funcionamiento, usos. DataScientest. https://datascientest.com/es/machine-learning-definicion-funcionamiento-usos
+
+        Amazon Web Services. (s.f.). IA y machine learning: diferencia entre inteligencia artificial y machine learning. Recuperado de https://aws.amazon.com/es/compare/the-difference-between-artificial-intelligence-and-machine-learning
+
+        Universidad Católica San Pablo. (s.f.). Diferencia entre machine learning e inteligencia artificial. Recuperado de https://postgrado.ucsp.edu.pe/articulos/machine-learning-inteligencia-artificial-diferencias
