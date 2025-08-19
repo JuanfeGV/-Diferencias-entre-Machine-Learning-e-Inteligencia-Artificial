@@ -44,6 +44,16 @@ Definición de IA y ML
     3. Alcance
     La IA abarca un espectro más amplio de tecnologías, incluyendo el ML, redes neuronales, visión computacional, entre otras. En cambio, el ML se limita al aprendizaje automático, que puede ser supervisado, no supervisado o por refuerzo. Es decir, el ML es una subárea dentro del campo de la IA.
 
+    C:
+    Tipos de Machine Learning:
+
+    El Machine Learning (ML) se clasifica en tres tipos principales, de acuerdo con la forma en que los algoritmos aprenden de los datos y se relacionan con el entorno:
+    1. Aprendizaje supervisado (Supervised Learning)
+    2. Aprendizaje no supervisado (Unsupervised Learning)
+    3. Aprendizaje por refuerzo (Reinforcement Learning)
+
+    
+
 
     Bibliografia:
         
