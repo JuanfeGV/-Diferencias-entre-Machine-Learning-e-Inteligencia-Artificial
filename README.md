@@ -15,3 +15,9 @@ Definición de IA y ML
         En lugar de seguir reglas fijas, el ML construye modelos que hacen predicciones o toman decisiones en función de ejemplos previos.
 
         Ejemplo: los sistemas de recomendación de Netflix o Spotify, que aprenden de las preferencias del usuario para sugerir contenido personalizado.
+
+    Bibliografia:
+        
+        ¿Qué es la inteligencia artificial y cómo se usa? | Temas | Parlamento Europeo. (2020, 9 agosto). Temas | Parlamento Europeo. https://www.europarl.europa.eu/topics/es/article/20200827STO85804/que-es-la-inteligencia-artificial-y-como-se-usa
+        
+        Daniel. (2023, 30 octubre). Machine Learning: definición, funcionamiento, usos. DataScientest. https://datascientest.com/es/machine-learning-definicion-funcionamiento-usos
