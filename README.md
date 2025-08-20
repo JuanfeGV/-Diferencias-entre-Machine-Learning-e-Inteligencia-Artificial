@@ -67,6 +67,14 @@ Definición de IA y ML
         - Algoritmos representativos: Q-learning, SARSA, Deep Q-Networks (DQN), aprendizaje basado en políticas (Policy Gradient).
     Es útil para problemas complejos donde no existen datos de entrenamiento completos, aunque requiere mucho tiempo de entrenamiento y gran potencia de cómputo, y puede resultar ineficiente si las recompensas son escasas.
 
+    Sintesis 
+    La Inteligencia Artificial (IA) es la forma de exprasar lo que la  informática  busca al momento de desarrollar sistemas que sean capaces de realizar procesos de razonamiento parecido al del humano apartir del aprendizaje o el reconocimiento de patrones. Dentro de este campo se encuentra el Machine Learning (ML), el area que se dedica a crear algoritmos y modelos matemáticos que logran automatizarse  a partir de los datos que recollecta, sin necesidad de ser programarse  de forma explícita.
+
+    Conclusiones 
+    La IA es un gran campo el cual esta enfocada en imitar ala inteligencia humana ademas esta encargada de buscar solucion a los problemas complejos , el tipo d eaprendizaje es automatico , este muestar la versatilidad se ML, asi aplicandose en diversos sectores, para su funcionameinto requiere una estructura solida de informacion para poder procesar esta informacion aplicando el enfoque etico esta no solo transforma la interaccion en la tecnologia sino que brinda nuevas oportunidades.
+
+
+
     Bibliografia:
         
         ¿Qué es la inteligencia artificial y cómo se usa? | Temas | Parlamento Europeo. (2020, 9 agosto). Temas | Parlamento Europeo. https://www.europarl.europa.eu/topics/es/article/20200827STO85804/que-es-la-inteligencia-artificial-y-como-se-usa
@@ -78,5 +86,8 @@ Definición de IA y ML
         Universidad Católica San Pablo. (s.f.). Diferencia entre machine learning e inteligencia artificial. Recuperado de https://postgrado.ucsp.edu.pe/articulos/machine-learning-inteligencia-artificial-diferencias
 
         Rojas, E. M. (2020). Machine Learning: análisis de lenguajes de programación y herramientas para desarrollo. Revista Ibérica de Sistemas e Tecnologías de Información, (E28), 586-599.
+        IBM (2024). What Is Artificial Intelligence (AI)? En este recurso se define la IA como la tecnología que permite a computadoras y máquinas simular aprendizaje humano, comprensión, toma de decisiones y autonomía.
+
+        MIT Sloan (2019). Machine learning, explained. Define el ML como un subcampo de la IA que dota a las computadoras de la capacidad de aprender sin ser programadas explícitamente.
 
         Amazon Web Services. (s.f.). Supervised vs. Unsupervised Learning. Recuperado de https://aws.amazon.com/pt/compare/the-difference-between-machine-learning-supervised-and-unsupervised/
